@@ -1,0 +1,5 @@
+flask>=3.0
+pymupdf>=1.24
+pillow>=10
+psd-tools>=1.9
+numpy>=1.26
